@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+constructor(${1:${2:props,}${3:context}}) {
+	${4:super(${1:${2:props,}${3:context}})};
+	${6:this.state = {
+  		${7:a:null}
+  	\}}
+},
+]]></content>
+    <tabTrigger>constructor</tabTrigger>
+    <scope>source.js</scope>
+    <description>React:state构造器</description>
+</snippet>

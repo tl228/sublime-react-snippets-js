@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+map((item, index) => { return (
+	${1:<p key={index\}>this is {item\}</p>}
+) })
+]]></content>
+    <tabTrigger>map</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array.map</description>
+</snippet>

@@ -4,7 +4,7 @@ this.setState({
 	${1}: ${2}
 });
 ]]></content>
-    <tabTrigger>sst</tabTrigger>
+    <tabTrigger>setState</tabTrigger>
     <scope>source.js</scope>
     <description>React: this.setState({ ... })</description>
 </snippet>

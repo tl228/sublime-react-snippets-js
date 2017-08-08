@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import ${1:${2:importName} from} '${3:pathName}'
+]]></content>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>import...from</description>
+</snippet>
