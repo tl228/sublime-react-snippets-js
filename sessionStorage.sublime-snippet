@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sessionStorage
+]]></content>
+    <tabTrigger>sessionStorage</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>sessionStorage</description>
+</snippet>

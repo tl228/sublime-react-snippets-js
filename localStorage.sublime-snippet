@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+localStorage
+]]></content>
+    <tabTrigger>localStorage</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>localStorage</description>
+</snippet>
