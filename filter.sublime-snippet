@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+filter(${1:item => {
+	${2:if (item > 0){
+		return item
+	\}}
+\}})
+
+]]></content>
+    <tabTrigger>filter</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array.filter</description>
+</snippet>

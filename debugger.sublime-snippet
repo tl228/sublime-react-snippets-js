@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+debugger
+]]></content>
+    <tabTrigger>debugger</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>debugger</description>
+</snippet>
