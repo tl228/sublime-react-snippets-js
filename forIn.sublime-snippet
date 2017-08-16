@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+for (${1:item} in ${2:obj}) {
+	${3:console.log(item + ': ' + obj[item])}
+	
+}
+]]></content>
+    <tabTrigger>for</tabTrigger>
+    <scope>source.js</scope>
+    <description>for(item in obj){}</description>
+</snippet>
