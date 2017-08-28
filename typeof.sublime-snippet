@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+typeof ${1:variable}
+]]></content>
+    <tabTrigger>typeof</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>判断类型</description>
+</snippet>

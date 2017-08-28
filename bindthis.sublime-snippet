@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-bind(this)
+bind(${1:this}${2:,otherParams})
 ]]></content>
     <tabTrigger>bind</tabTrigger>
     <scope>source.js,source.ts</scope>

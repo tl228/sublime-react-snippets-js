@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+__proto__
+]]></content>
+    <tabTrigger>__proto__</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>__proto__</description>
+</snippet>

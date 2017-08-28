@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:fn} instanceof ${2:Object}
+]]></content>
+    <tabTrigger>instanceof</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>判断隶属原型链</description>
+</snippet>

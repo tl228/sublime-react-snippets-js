@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+hasOwnProperty(${1:item})
+]]></content>
+    <tabTrigger>hasOwnProperty</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>判断基础属性</description>
+</snippet>

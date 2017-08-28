@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+call(${1:obj}${2:,otherParams})
+]]></content>
+    <tabTrigger>call</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>call(obj)</description>
+</snippet>

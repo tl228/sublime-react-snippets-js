@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+prototype
+]]></content>
+    <tabTrigger>prototype</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>新增属性</description>
+</snippet>
